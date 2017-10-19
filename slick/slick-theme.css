@@ -132,7 +132,7 @@
 
     list-style: none;
 
-    text-align: center;
+    text-align: right;
 }
 .slick-dots li
 {
@@ -178,7 +178,7 @@
 .slick-dots li button:before
 {
     font-family: 'slick';
-    font-size: 6px;
+    font-size: 11px;
     line-height: 20px;
 
     position: absolute;
